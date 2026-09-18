@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahsan841.github.io/asim-portfolio/sitemap.xml
